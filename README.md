@@ -36,7 +36,7 @@ I accidently put a breakpoint in the code and could not find where the issue was
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="http://g.recordit.co/7JBcaKWDqY.gif" width=250><br>
 
 ### Notes
 Installing the pod was struggling for me because there are issues with M1 system.
