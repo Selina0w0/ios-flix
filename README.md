@@ -15,7 +15,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-<img src="http://g.recordit.co/cKcm0jmXQx.gif" width=300><br>
+<img src="http://g.recordit.co/82c7dq1KoR.gif" width=300><br>
 
 ### Notes
 I accidently put a breakpoint in the code and could not find where the issue was at. 
